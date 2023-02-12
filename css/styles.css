@@ -33,6 +33,7 @@ h3 {
 
 iframe,
 img {
+    background: #888;
     border: 0.3rem solid #222;
     display: block;
     margin: 1rem 0;
